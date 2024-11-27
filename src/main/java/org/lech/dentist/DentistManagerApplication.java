@@ -9,12 +9,3 @@ public class DentistManagerApplication {
         SpringApplication.run(DentistManagerApplication.class, args);
     }
 }
-
-//@SpringBootApplication
-//public class DentistManagerApplication {
-//
-//    public static void main(String[] args) {
-//        SpringApplication.run(DentistManagerApplication.class, args);
-//    }
-//
-//}
